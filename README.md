@@ -1,7 +1,7 @@
 # The-Dungeon
 A game where you traverse a 'maze' from one end to the other. Can you make it through without dying?
 <br>
->> This game shows off the 4 pillars of OOP.
+>> This game shows off the 4 pillars of OOP. >>
 <br>
 <br>
 TO START:
