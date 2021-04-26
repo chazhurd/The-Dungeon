@@ -1,9 +1,9 @@
 
 # The-Dungeon
 ![4pillars](https://user-images.githubusercontent.com/52184026/116148976-7600c800-a696-11eb-9259-c4a12b47ebcd.jpg)
-A game where you traverse a 'maze' from one end to the other. Can you make it through without dying?
+A game where you traverse a 'maze' from one end to the other. Can you make it through without dying? Test your fighting and navigation skills below. 
 <br>
->>>> This game shows off the 4 pillars of OOP. 
+>>>> This game shows off the 4 pillars of OOP. Each character has their own special attack on top of a standard attack or defend. Each Character has their own stats such as health and ability to block an attack. Abstaction is used to keep the game simple all while your moves and stats are being tracked. Polymorphism is being used as there are multiple heroes and foes. Inheritance is used as there are Characters Objects who can be bad or good and so on. Encapsulations is used as there are many classes to define the Characters and parts of the game. Interfaces and abstract classes are used here as well. 
 
 
 <br>
