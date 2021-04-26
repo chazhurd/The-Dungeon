@@ -1,10 +1,10 @@
 
 # The-Dungeon
-![](InitImgs/4pillars.png)
+![4pillars](https://user-images.githubusercontent.com/52184026/116148976-7600c800-a696-11eb-9259-c4a12b47ebcd.jpg)
 A game where you traverse a 'maze' from one end to the other. Can you make it through without dying?
 <br>
 >>>> This game shows off the 4 pillars of OOP. 
->>>> ![4pillars](https://user-images.githubusercontent.com/52184026/116148976-7600c800-a696-11eb-9259-c4a12b47ebcd.jpg)
+
 
 <br>
 <br>
@@ -21,5 +21,5 @@ TO START:
 TO MOVE USE KEYS N,S,E,W AND TO USE POTIONS PRESS P DURING EXPLORING OR <br>
 3 DURING BATTLE, IT WILL NOT COUNT AS A TURN DURING ATTACKS, GOOD LUCK!"<br>
 <br><br>
-![](InitImgs/start.png)
+
 <br>
