@@ -1,3 +1,4 @@
+![](InitImgs/4pillars.png)
 # The-Dungeon
 A game where you traverse a 'maze' from one end to the other. Can you make it through without dying?
 <br>
@@ -17,3 +18,5 @@ TO START:
 TO MOVE USE KEYS N,S,E,W AND TO USE POTIONS PRESS P DURING EXPLORING OR <br>
 3 DURING BATTLE, IT WILL NOT COUNT AS A TURN DURING ATTACKS, GOOD LUCK!"<br>
 <br><br>
+![](InitImgs/start.png)
+<br>
