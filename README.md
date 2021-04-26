@@ -4,6 +4,8 @@
 A game where you traverse a 'maze' from one end to the other. Can you make it through without dying?
 <br>
 >>>> This game shows off the 4 pillars of OOP. 
+>>>> ![4pillars](https://user-images.githubusercontent.com/52184026/116148976-7600c800-a696-11eb-9259-c4a12b47ebcd.jpg)
+
 <br>
 <br>
 TO START:
