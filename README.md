@@ -24,3 +24,4 @@ TO MOVE USE KEYS N,S,E,W AND TO USE POTIONS PRESS P DURING EXPLORING OR <br>
 <img width="960" alt="start" src="https://user-images.githubusercontent.com/52184026/116149271-c841e900-a696-11eb-979e-982edb764de7.png">
 
 <br>
+<img width="960" alt="2021-04-26 (1)" src="https://user-images.githubusercontent.com/52184026/116149511-1656ec80-a697-11eb-8479-a07383b47280.png">
