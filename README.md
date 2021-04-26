@@ -8,7 +8,7 @@ TO START:
 <br>
 1. Download and extract the Zip File <br>
 2. Open Eclipse or IntelliJ and open the "The-Dungeon-Main" folder in the IDE<br>
-3. If your set up process is like mine, create a package that is name "dungeon" or simply rename the default package to dungeon. Transfer the compilable files (Java classes with SOLID fill) to the dungeon package.<br>
+3. If your set up process is like mine, create a package that is named "dungeon" (or simply rename the default package to dungeon). Transfer the compilable files (Java classes with SOLID fill J) to the dungeon package.<br>
 4. Run the DungeonAdventure.Java class. (proceed with errors)<br>
 5. Play the game! :D<br>
 <br>
