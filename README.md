@@ -21,5 +21,6 @@ TO START:
 TO MOVE USE KEYS N,S,E,W AND TO USE POTIONS PRESS P DURING EXPLORING OR <br>
 3 DURING BATTLE, IT WILL NOT COUNT AS A TURN DURING ATTACKS, GOOD LUCK!"<br>
 <br><br>
+<img width="960" alt="start" src="https://user-images.githubusercontent.com/52184026/116149271-c841e900-a696-11eb-979e-982edb764de7.png">
 
 <br>
